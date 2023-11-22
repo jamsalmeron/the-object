@@ -7,6 +7,17 @@
 [Book I English](the-object-1.md) | [Book II English](the-object-2.md) | [Libro I Español](el-objeto-1.md)
 
 
+Este texto está extraído de mis notas personales. Corresponde a un borrador y, por lo tanto, no es un libro totalmente acabado o editado.
+
+He querido publicarlo en este formato abreviado para que los lectores del primer libro de esta serie puedan, tras cuatro años, saber en qué termina la historia de EL OBJETO.
+
+Como borrador y apunte no es perfecto aunque sí completo pues, a pesar de que no incluye mucho dialogo y la trama está simplemente esbozada, da solución a las principales incógnitas y redondea la narración. Por ello, no tengo planes de editar este segundo "libro" más allá de su actual estado. 
+
+No obstante, espero que os guste este formato fresco y de lectura rápida.
+
+Florida, noviembre de 2023.
+
+
 ## PARTE I
 
 ### EL FIN
