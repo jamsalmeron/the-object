@@ -1,5 +1,5 @@
 # LIBRO II
-## EL OBJETO — Cántico del peregrino
+## EL OBJETO — El canto del peregrino
 ### por _Antonio Salmerón_
 (Cuaderno del autor)
 
@@ -169,7 +169,7 @@ Después de un largo día en los controles, aprendiendo todo lo posible, Kyle y 
 -----
 
 
-## DESPERTAR EN EL OBJETO
+### DESPERTAR EN EL OBJETO
 _Día 79_
 
 Kyle se despierta para unirse al resto del equipo y continuar buscando respuestas tras una noche muy corta, inquieta y sin descanso en una de las desoladas habitaciones de la tripulación Visitante.
