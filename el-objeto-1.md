@@ -6,7 +6,7 @@
 [Book I English](the-object-1.md) | [Book II English](the-object-2.md) | [Libro II Español](el-objeto-2.md)
 
 
-## SORPRESA
+### SORPRESA
 20 de abril de 2025
 
 Observatorio del Roque de los Muchachos, Gran Canaria, España
@@ -370,7 +370,7 @@ Eran mediados de mayo.
 -----
 
 
-## YA NADA SERÁ IGUAL
+### YA NADA SERÁ IGUAL
 
 Kyle miraba el plato de su desayuno, indeciso. Eran las siete de la mañana y era raro que estuviese solo en la cafetería. Solo habían pasado veinticuatro horas desde el comienzo de esta odisea y ya echaba de menos su rutina diaria. No obstante, lo que más echaba en falta era la luz del sol. ¿Cómo se puede trabajar en un lugar sin ventanas como este? La perpetua iluminación fluorescente se hacía insoportable incluso para una persona introvertida como él.
 
@@ -1008,7 +1008,7 @@ Bo entró y se quedó pensativo unos segundos. Era incómodo reunirse con un sup
 -----
 
 
-## LECCIONES A LOS EXPERTOS
+### LECCIONES A LOS EXPERTOS
 
 Se necesitaron cuatro intensos meses, mil quinientos técnicos de diez países y veinticinco mil millones de dólares para construir la Teseo. Afortunadamente para la Tierra, el desconocido Objeto permaneció en órbita estática alrededor de la luna durante todo ese tiempo. Tranquilo, quieto y oculto en el lado oscuro.
 
@@ -1178,7 +1178,7 @@ Se quedó sentado durante un buen rato, perplejo y dejando que su ansiedad le co
 -----
 
 
-## LANZAMIENTO
+### LANZAMIENTO
 
 La mañana era diáfana: el tiempo perfecto para el lanzamiento. Unos agradables dos grados centígrados y ni una sola nube. Un aura sombría envolvía la base en un silencio incómodo que nadie quería romper.
 
@@ -1376,7 +1376,7 @@ Kyle se encogió de hombros, sonrió mansamente y se alejó flotando.
 -----
 
 
-## ABORDAJE
+### ABORDAJE
 
 Después de casi cuatro días en gravedad cero recorriendo los 386.000 kilómetros que separan la Tierra de su satélite, la nave Teseo se encontraba cerca del lado visible de la Luna.
 
@@ -2248,7 +2248,7 @@ O al menos, eso esperaban.
 -----
 
 
-## CONTRATAQUE
+### CONTRATAQUE
 
 —Teseo, atentos, llegaremos a vuestra posición en diez minutos —anunció Alex.
 
@@ -2438,7 +2438,7 @@ La última tarea del equipo fue ponerse sus SPP y lanzarse al espacio, directame
 -----
 
 
-## LA BIENVENIDA
+### LA BIENVENIDA
 
 Kyle fue el último en cruzar el umbral de la apertura. Se abría hacia una estancia vacía tan grande como el hangar de un avión. Estaba inundada de una luz suave y cálida como todo lo demás de origen extraterrestre que habían visto hasta entonces.
 
@@ -2970,7 +2970,7 @@ Después de unos tensos momentos notaron con inmenso alivio que Raúl respiraba,
 -----
 
 
-## PREGUNTAS
+### PREGUNTAS
 
 —Miles de millones gastados, meses de preparación y vidas perdidas… todo para encontrar a un anciano solitario —dijo Sonia, sacudiendo la cabeza.
 
@@ -3124,7 +3124,7 @@ Kyle miró el Objeto por última vez, luego cerró los ojos y respiró hondo.
 -----
 
 
-## SIN TREGUA
+### SIN TREGUA
 
 Unos días después, la Teseo llegó a la Tierra. El módulo lunar que transportaba a la tripulación volvió a entrar en la atmósfera sin incidentes, dejando el resto de la nave en órbita para ser reutilizada en futuras misiones.
 
@@ -3416,7 +3416,7 @@ Se levantó para preparar la cena sintiendo infinidad de emociones simultáneas:
 -----
 
 
-## ¿RESPUESTAS?
+### ¿RESPUESTAS?
 
 Kyle caminaba por un corredor subterráneo bajo aquella iluminación fluorescente que tan bien recordaba de los meses de entrenamiento. Acababa de aterrizar hacía diez minutos posiblemente en el mismo lugar de la primera vez y se dirigía a reunirse con el resto del equipo del Proyecto Ática. Estaba encantado de colaborar con los científicos que habían estado clasificando los vídeos y demás evidencia física desde su regreso a la Tierra hacía dos semanas. Y, por supuesto, sería fantástico volver a ver a Hannah.
 
@@ -3784,7 +3784,7 @@ Se quedaron en silencio durante un rato.
 -----
 
 
-## EPÍLOGO
+### EPÍLOGO
 
 Cinco de la mañana de un domingo cualquiera.
 
@@ -3856,3 +3856,5 @@ El equipo de Tierra capitaneado por Sonia permaneció en silencio sin mirar otra
 
 
 FIN
+
+Copyright © Antonio Salmerón. Todos los derechos reservados.
