@@ -59,3 +59,7 @@ Will they be able to avert the menace and finally have their scientific curiosit
 Kyle, Hannah y varias caras nuevas y conocidas vuelven a la órbita lunar para entrar de nuevo en EL OBJETO en un esfuerzo para salvar la Tierra de una amenaza inesperada. Esta vez saben mucho más sobre la entidad misteriosa y quiénes están detrás de ella tras meses de dedicado estudio y escrutinio. No obstante, aún quedan muchas incógnitas por despejar.
 
 ¿Serán capaces de evitar la amenaza y finalmente saciar su curiosidad científica?
+
+-----
+
+Antonio Salmerón is an entrepreneur and web developer at [Digit](https://www.wearedigit.io).
