@@ -7,14 +7,6 @@
 [Book I English](the-object-1.md) | [Book II English](the-object-2.md) | [Libro I Español](el-objeto-1.md)
 
 
-# RESUMEN
-
-ADSFASDF
-
-
------
-
-
 ## PARTE I
 
 # EL FIN
