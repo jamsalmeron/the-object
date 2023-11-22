@@ -9,7 +9,7 @@
 
 ## PARTE I
 
-# EL FIN
+### EL FIN
 
 Temprano en la mañana, un parque urbano abandonado junto a un lago, cubierto de niebla. Juguetes rotos y sucios, latas de refresco aplastadas y otros objetos de basura se encuentran esparcidos por doquier entre árboles altos, parches de césped y arbustos silvestres.
 
@@ -21,7 +21,7 @@ Ven lo que parece ser un hombre y una mujer caminando lentamente hacia ellos dif
 -----
 
 
-# INCENDIO EN LA URBANIZACIÓN
+### INCENDIO EN LA URBANIZACIÓN
 _4 de marzo de 2026. Día 1_
 
 Tres adolescentes montan en bicicleta por las cuidadas avenidas de Nocatee en el noreste de Florida. La mañana es clara y agradable. No hay una nube en el cielo —algo que es menos frecuente en Florida de lo que muchos creen—.
@@ -42,7 +42,7 @@ Muy pronto alcanza a los adolescentes que se habían quedado congelados de miedo
 -----
 
 
-# UNA DE MUCHAS SESIONES INFORMATIVAS
+### UNA DE MUCHAS SESIONES INFORMATIVAS
 _Día 9_
 
 Sonia Rogers, líder del Proyecto Ática, esta sentada en su oficina mirando intensamente un enorme monitor dividido en doce ventanas pequeñas. Cada una contiene el rostro de un miembro de la Junta Directiva —la organización supragubernamental detrás de la respuesta de la Tierra a la Nave Visitante— conferenciando desde distintos lugares del mundo: EE.UU., Canadá, Reino Unido, Francia, Alemania, España, Italia, Polonia, Noruega, Hungría, Rusia y China.
@@ -57,7 +57,7 @@ Sonia asegura a todos que hay planes adicionales inmediatos para terminar con aq
 -----
 
 
-# LA REUNIÓN
+### LA REUNIÓN
 _Día 64_
 
 El hogar del comandante Jim Ackerman en Virginia Beach, EE. UU. Maggie Ackerman —la hija de 4 años de Jim Ackerman— juega sentada sobre la hierba del patio trasero. Una brisa suave mece el columpio detrás de ella.
@@ -130,7 +130,7 @@ Se acercan al gigantesco cohete Angara que llevará al Egeo a su aún enigmátic
 
 ## PARTE II
 
-# OTRA VEZ EL HANGAR
+### OTRA VEZ EL HANGAR
 _Día 78_
 
 Después del brusco lanzamiento, el ya familiar viaje a la Luna y el inquietante paseo espacial desde el Egeo, Kyle se encuentra una vez más de pie en la entrada al inmenso hangar de la Nave Visitante, habiendo dejado a Boris y Chen a bordo de la suya, como ya era costumbre desde la misión del Teseo.
@@ -169,7 +169,7 @@ Después de un largo día en los controles, aprendiendo todo lo posible, Kyle y 
 -----
 
 
-# DESPERTAR EN EL OBJETO
+## DESPERTAR EN EL OBJETO
 _Día 79_
 
 Kyle se despierta para unirse al resto del equipo y continuar buscando respuestas tras una noche muy corta, inquieta y sin descanso en una de las desoladas habitaciones de la tripulación Visitante.
@@ -240,7 +240,7 @@ El episodio les había perturbado y decepcionado profundamente. Habían esperado
 -----
 
 
-# ÉXODO
+### ÉXODO
 _Día 80_
 
 Después de otro período de descanso mayormente pesadillesco, y atormentados por la necesidad de detener al Enjambre en la Tierra, el equipo regresa al sistema de archivos a bordo de la Nave para ver más grabaciones. Varias horas después, abren un largo clip de un carácter muy diferente a la mayoría de lo que habían visto hasta ahora.
@@ -273,7 +273,7 @@ Finalmente caen dulcemente dormidos en un abrazo sincero.
 -----
 
 
-# LA COSA SE PONE FEA
+### LA COSA SE PONE FEA
 _Día 81_
 
 Un par de horas más tarde, Kyle se despierta al oir un grito. Se desenreda del abrazo de Hannah y avanza a la puerta para intentar escuchar con más claridad, pero no se producen más ruidos.
@@ -304,7 +304,7 @@ Debe haber más que diarios privados y libros de oraciones en la Nave de los Vis
 -----
 
 
-# DESAPARECIDOS
+### DESAPARECIDOS
 _Día 82_
 
 Un nuevo día, con suerte el último a bordo de la maldita nave espacial. Chen y Boris observan a sus camaradas desde el módulo de comando del Egeo. Están preocupados, pero bromean un poco para aliviar la tensión.
@@ -533,7 +533,7 @@ Kyle se estremece y despierta en su cama empapado en sudor una vez más. Mirando
 -----
 
 
-# INVOCACIONES
+### INVOCACIONES
 _Día 121_
 
 Horrorizados todos se van dando cuenta de que cuanto más intentan alimentarse mediante las invocaciones que encontraron en la base de datos, más locos se están volviendo. Por ejemplo, Hannah se había estado hurgando la piel con una navaja y anda cubierta de llagas y cortes profundos. Ackerman está constantemente enojado, a veces explotando en fuertes arrebatos de ira que duran horas. Y no han encontrado ni a Birgisson ni a Raúl.
@@ -624,7 +624,7 @@ Lo peor de todo es el sentimiento desgarrador por su necesidad de seguir dependi
 
 ## PARTE III
 
-# LA PUERTA
+### LA PUERTA
 _Día 138_
 
 Tras cincuenta y siete días de viaje interestelar ocurre algo increíble —incluso para ellos que estaban acostumbrados a sorpresas monumentales a cada hora—.
