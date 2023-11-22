@@ -1,7 +1,7 @@
 ![THE OBJECT — Pilgrim’s chant, books 1 and 2, by Antonio Salmerón](THE-OBJECT-cover.png)
 
-# THE OBJECT
-## Pilgrim’s chant
+# THE OBJECT / EL OBJETO
+## Pilgrim’s chant / El canto del peregrino
 ### by _Antonio Salmerón_
 
 
@@ -63,3 +63,5 @@ Kyle, Hannah y varias caras nuevas y conocidas vuelven a la órbita lunar para e
 -----
 
 Antonio Salmerón is an entrepreneur and web developer at [Digit](https://www.wearedigit.io).
+
+Copyright © José Antonio Martínez Salmerón. All rights reserved. Todos los derechos reservados.
