@@ -3,26 +3,10 @@
 ### by _Antonio Salmerón_
 
 
- [Book II English](the-object-2.md) | [Libro I Español](el-objeto-1.md) | [Libro II Español](el-objeto-2.md)
+[Book II English](the-object-2.md) | [Libro I Español](el-objeto-1.md) | [Libro II Español](el-objeto-2.md)
 
 
-# SYNOPSIS
-
-A perfectly triangular object the size of a city parks itself behind the Moon after traversing our Solar System in mere minutes.
-
-Math genius Kyle Santiago is whisked away by government agents to a secret facility where several countries are planning a mission to investigate the object's origins and purpose — an uneasy alliance marred by suspicion and hidden political agendas.
-
-During training, Kyle meets exobiologist Hannah Coleman and teh rest of a small international team of elite scientists and special ops soldiers. Four months later, they board a rocket to examine the object.
-
-They find it impenetrable, but several clues point to the surface of the Mon as a first step toward solving the mystery.
-
-THE OBJECT tells the story of a brilliant yet insecure scientist who finds himself at the center of event that will change our undertanding of human history and our place in the universe.
-
-
------
-
-
-## SURPRISE
+### SURPRISE
 April, 2025
 
 Roque de los Muchachos Observatory, Gran Canaria, Spain
@@ -213,7 +197,6 @@ Brad grabbed his hat and turned to leave, only stopping at the entrance of the t
 
 Dominion Radio Astrophysics Observatory, Kaleden, British Columbia, Canada
 
-
 Doctor Hannah Coleman locked her office. It had been a long day and she looked forward to relaxing at home. She considered herself lucky that Peter, her husband, was a caring father and a great cook who worked from home. His career as a writer lent great flexibility to his schedule and he could fill in for Mom with the kids — most of the time.
 
 She walked to the empty parking lot, got in her Toyota, and started the usual drive home. Canada was very different from the United States, but it had a certain aura of familiarity. She wasn’t totally in love with the area just yet. Her post had its pluses, though. Kaleden didn’t get its name by accident — a combination of “Eden” with “Kalos,” a Greek word meaning “beautiful.” She lived in a town called Penticton, which proved the veracity of the Kaleden name. Situated between the immense lakes Okanagan to the north and Shaka to the south, it has many summer homes and the beautiful Pioneer Park beach. Hannah considered the small town a little boring, but she also recognized that both she and her family enjoyed a comfortable life there.
@@ -370,7 +353,7 @@ It was already mid-May and they let that thought sink in.
 -----
 
 
-## NOTHING WILL BE THE SAME
+### NOTHING WILL BE THE SAME
 
 Kyle sat picking at his breakfast. It was seven in the morning and he was oddly alone in the cafeteria. Only twenty-four hours had passed since his “kidnapping” and he already missed his daily routine, but the thing he missed the most was the sunshine. How could these people work in a place with no windows? Even for an introverted homebody like himself, the perpetual fluorescent light was too much to take in.
 
@@ -1002,7 +985,7 @@ Bo stepped in and lingered for a few seconds. It felt awkward to meet a superior
 -----
 
 
-## LESSONS FOR THE EXPERTS
+### LESSONS FOR THE EXPERTS
 
 It took four reckless months, fifteen hundred technicians from ten countries, and twenty-five billion dollars to build the Theseus. Luckily for Earth, the alien object sat on the Moon’s orbit the entire time. Quiet, still, and hidden over the far side.
 
@@ -1170,7 +1153,7 @@ He just sat looking perplexed and letting his anxiety grow unchecked. For a very
 -----
 
 
-## THE LAUNCH
+### THE LAUNCH
 
 The final morning was diaphanous — the perfect weather for launch. A balmy two degrees Celsius and not a single cloud, but nobody on the team noticed. A somber yet determined atmosphere enveloped the base. You could hear a pin drop.
 
@@ -1364,7 +1347,7 @@ Kyle shrugged his shoulders, smiled meekly, and floated away.
 -----
 
 
-## BOARDING
+### BOARDING
 
 After almost four days in zero gravity traveling the 386,000 kilometers that separate Earth from its satellite, Theseus approached the visible side of the Moon.
 
@@ -1732,7 +1715,7 @@ Everyone paused in silence, pondering the implications of Alex’s words. A perf
 -----
 
 
-## THE MOON'S DARKNESS
+### THE MOON'S DARKNESS
 
 Kyle gripped the armrests of his seat and began sweating as the lunar module rushed closer to the looming lunar surface. The retrorockets fired and the small craft rumbled and shook. With the landing countdown as background noise, Kyle felt that familiar pit in his stomach — the feeling of being way beyond anything considered normal.
 
@@ -2202,7 +2185,7 @@ Or at least, they hoped.
 -----
 
 
-## COUNTERATTACK
+### COUNTERATTACK
 
 “Theseus, be advised, we will reach your position in ten minutes,” Alex announced.
 
@@ -2386,7 +2369,7 @@ The team’s last task was to put on their PPSs and haul themselves into space, 
 -----
 
 
-## THE WELCOME
+### THE WELCOME
 
 Kyle was the last one to cross the gate’s threshold. It opened into a barren room as large as an airliner’s hangar. It was flooded with a soft, warm light like everything else of alien origin they’ve seen so far.
 
@@ -2904,7 +2887,7 @@ A few tense moments later, they noticed with immense relief that Raúl was still
 -----
 
 
-## QUESTIONS
+### QUESTIONS
 
 “Billions spent, months preparing, and lives lost…all to find a lonely old man,” Sonia said, shaking her head.
 
@@ -3048,7 +3031,7 @@ Kyle looked at the object one last time, then closed his eyes and took a deep br
 -----
 
 
-## NO RESPITE
+### NO RESPITE
 
 A few days later, Theseus arrived on Earth. The lunar module carrying the entire crew re-entered the atmosphere uneventfully, leaving the rest of the ship in orbit to be reused in future missions.
 
@@ -3332,7 +3315,7 @@ She got up to prepare dinner, torn between conflicting emotions: her relief to f
 -----
 
 
-## ANSWERS?
+### ANSWERS?
 
 Kyle walked down an underground corridor in that familiar-yet-unappreciated fluorescent lighting he so vividly remembered from months of training. He had landed ten minutes before at what looked like the same location he had visited the first time around, and was on his way to rejoin Project Attica. He looked forward to meeting the scientists who had been classifying the video and physical evidence since their return to Earth two weeks prior. And, of course, it was going to be delightful to see Hannah again.
 
@@ -3680,7 +3663,7 @@ Also what?""  Did you say your phones are bugged?”
 -----
 
 
-## EPILOGUE
+### EPILOGUE
 
 Five in the morning, Sunday.
 
@@ -3752,3 +3735,5 @@ Sonia’s entire team went silent, glued to the blank computer screens portendin
 
 
 THE END
+
+Copyright © José Antonio Martínez Salmerón. All rights reserved.
