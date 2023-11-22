@@ -7,6 +7,17 @@
 [Book I English](the-object-1.md) | [Libro I Español](el-objeto-1.md) | [Libro II Español](el-objeto-2.md)
 
 
+This text is extracted from my personal notes. It corresponds to a draft and, therefore, it is not a fully finished or edited book.
+
+I wanted to publish it in this shortened format so that the readers of the first book in the series can, after four years, know how the story of THE OBJECT ends.
+
+As a draft, it is not perfect but it is complete for, although it does not include much dialogue and the plot is merely outlined, it resolves the main mysteries and rounds out the narrative. Therefore, I have no plans to edit this second "book" beyond its current state.
+
+However, I hope you like this fresh and quick-reading format.
+
+Florida, November 2023.
+
+
 ## PART I
 
 ### THE END
