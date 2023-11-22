@@ -9,7 +9,7 @@
 
 ## PART I
 
-# THE END
+### THE END
 
 Early morning, a derelict urban park next to a lake, covered in fog. Broken, dirty toys, crushed soda cans, and other trash items are strewn about tall trees, balding lawn patches and wildly grown bushes.
 
@@ -21,7 +21,7 @@ Blurred by the thick mist, they see what appears to be a man and a woman slowly 
 -----
 
 
-# FIRE IN SUBURBIA
+### FIRE IN SUBURBIA
 _March 4, 2026. Day 1_
 
 Three teenagers ride on the bike path along the manicured streets of Nocatee in North-East Florida. The morning is clear and pleasant. Not a cloud in the sky — something that is less frequent in Florida than many people believe.
@@ -42,7 +42,7 @@ Very soon it reaches the teenagers who had been frozen in horror. They turn thei
 -----
 
 
-# ONE OF MANY BRIEFINGS
+### ONE OF MANY BRIEFINGS
 _Day 9_
 
 Sonia Rogers, head of Project Attica, sits in her office looking intently at her huge computer monitor which is divided into twelve small windows, each containing the face of a member of Leadership (the supra-governmental organization behind Earth’s response to the Visitor Ship), conferencing from around the globe: U.S., Canada, United Kingdom, France, Germany, Spain, Italy, Poland, Norway, Hungary, Russia, and China.
@@ -57,7 +57,7 @@ Sonia assures all of them that further plans are quickly being put in place to e
 -----
 
 
-# THE REUNION
+### THE REUNION
 _Day 64_
 
 Commander Jim Ackerman’s home in Virginia Beach, U.S. Maggie Ackerman — Jim Ackerman’s 4-year-old girl — plays on the ground of their backyard, a gentle wind rocking the swing behind her.
@@ -126,7 +126,7 @@ They walk up to the giant Angara rocket that will take the Aegeus to its still e
 -----
 
 
-## PART II
+### PART II
 
 # THE HANGAR, AGAIN
 _Day 78_
@@ -167,7 +167,7 @@ After a long day at the controls, learning as much as possible, Kyle and Hannah 
 -----
 
 
-# WAKING UP IN THE OBJECT
+### WAKING UP IN THE OBJECT
 _Day 79_
 
 After a very short, uneasy, and restless night of non-sleep in one of the Visitor Ship’s forlorn crew quarters, Kyle wakes up to join the rest of the team to continue searching for answers.
@@ -240,7 +240,7 @@ What were they and what purpose did they serve? Where did they come from? How di
 -----
 
 
-# EXODUS
+### EXODUS
 _Day 80_
 
 After another mostly nightmarish rest period, and tormented by the need to stop the Swarm back on Earth, the team returns to the file system onboard the Ship to watch more recordings. Several hours into it, they open a long clip of a very different nature than most of what they had seen so far.
@@ -273,7 +273,7 @@ Eventually, they fall sweetly asleep in a candid embrace.
 -----
 
 
-# THIS IS GETTING SCARY
+### THIS IS GETTING SCARY
 _Day 81_
 
 A couple of hours later, Kyle is awakened by what he thought was a scream. He dislodges himself from Hannah’s embrace and moves to the door to try and hear more clearly, but there are no more noises.
@@ -306,7 +306,7 @@ There must be more to the Visitor Ship than private diaries and prayer books.
 -----
 
 
-# GONE
+### GONE
 _Day 82_
 
 A new day, hopefully the last onboard the blasted spaceship. Chen and Boris watch their comrades from the Aegeus’ command module. They are worried but joke a bit to take the edge off.
@@ -533,7 +533,7 @@ Kyle shudders and wakes up in his bed drenched in sweat yet again. Looking aroun
 -----
 
 
-# INCANTATIONS
+### INCANTATIONS
 _Day 121_
 
 By now, they all realize that the more they try to feed themselves with incantations, the crazier they all are getting. Hannah had been picking at her skin with a pocketknife and is covered in open sores, wounds, and deep cuts. Ackerman is constantly angry, sometimes exploding in loud bursts of ire that go on for hours. And they haven’t found either Birgisson or Raúl.
@@ -620,7 +620,7 @@ The most incontestably dreadful fact is, however, how they feel torn about the n
 -----
 
 
-## PART III
+### PART III
 
 # THE GATE
 _Day 138_
