@@ -137,9 +137,9 @@ They walk up to the giant Angara rocket that will take the Aegeus to its still e
 -----
 
 
-### PART II
+## PART II
 
-# THE HANGAR, AGAIN
+### THE HANGAR, AGAIN
 _Day 78_
 
 After the jarring launch, the now-familiar trip to the Moon, and the unnerving EVA (aka spacewalk) from the Aegeus, Kyle finds himself once again standing at the entrance to the Visitor’s immense hangar, having left Boris and Chen onboard their craft as was by now customary since the Theseus mission.
@@ -631,9 +631,9 @@ The most incontestably dreadful fact is, however, how they feel torn about the n
 -----
 
 
-### PART III
+## PART III
 
-# THE GATE
+### THE GATE
 _Day 138_
 
 Fifty-seven days into their interstellar trip, something incredible happens — incredible even for them, who were accustomed to their minds being blown on an hourly basis.
