@@ -7,9 +7,9 @@
 
 
 ### SURPRISE
-April, 2025
 
-Roque de los Muchachos Observatory, Gran Canaria, Spain
+_April, 2025
+Roque de los Muchachos Observatory, Gran Canaria, Spain_
 
 The morning started like any other for Paco Benavides. A light breakfast, a quick shower, the ritual dressing for work. He lacked the spontaneous enthusiasm employers expect these days — his low-burn cynicism barely tempered by the gratitude he felt for having a stable job while his age peers faced fifty percent unemployment rates.
 
@@ -71,8 +71,7 @@ Their long collective silence was broken only when Paco whispered, “Martín, g
 //
 
 
-MIT, Massachusetts, USA
-
+_MIT, Massachusetts, USA_
 
 “How would you respond if I were to tell you that chaos is its own kind of order?” That’s how Doctor Kyle Santiago started his quarterly undergraduate seminar on fractal patterns at the Massachusetts Institute of Technology. He was a tall man in his mid-thirties, already a world-renowned mathematician. It’s true what they say: in math, you either make it early or don’t make it at all. And he had definitely made it.
 
@@ -148,7 +147,7 @@ Malvisco looked at him behind very dark sunglasses. “It’s a matter of the hi
 //
 
 
-U.S. Special Forces Base, Al-Hadah, Yemen
+_U.S. Special Forces Base, Al-Hadah, Yemen_
 
 
 “The Lord is my shepherd, I shall not want. He makes me lie down in green pastures. He leads me beside quiet waters. He restores my soul. He guides me in the paths of righteousness for His name’s sake. Even though I walk through the valley of the shadow of death, I fear no evil, for You are with me…”
@@ -195,7 +194,7 @@ Brad grabbed his hat and turned to leave, only stopping at the entrance of the t
 //
 
 
-Dominion Radio Astrophysics Observatory, Kaleden, British Columbia, Canada
+_Dominion Radio Astrophysics Observatory, Kaleden, British Columbia, Canada_
 
 Doctor Hannah Coleman locked her office. It had been a long day and she looked forward to relaxing at home. She considered herself lucky that Peter, her husband, was a caring father and a great cook who worked from home. His career as a writer lent great flexibility to his schedule and he could fill in for Mom with the kids — most of the time.
 
