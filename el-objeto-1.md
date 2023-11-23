@@ -7,9 +7,9 @@
 
 
 ### SORPRESA
-20 de abril de 2025
 
-Observatorio del Roque de los Muchachos, Gran Canaria, España
+_20 de abril de 2025
+Observatorio del Roque de los Muchachos, Gran Canaria, España_
 
 Esa mañana comenzó como cualquier otra para Paco Benavides. Desayuno ligero, una ducha rápida, el ritual de preparación para el trabajo. Paco carecía del entusiasmo espontáneo que las empresas esperan de sus trabajadores. Su cinismo latente apenas atenuaba el agradecimiento que sentía por al menos tener un trabajo estable mientras que otros de su edad sufrían los efectos de una tasa de desempleo del cincuenta por ciento.
 
@@ -73,7 +73,7 @@ El largo silencio colectivo se rompió con un susurro de Paco.
 //
 
 
-Instituto de Tecnología de Massachusetts (MIT), Estados Unidos
+_Instituto de Tecnología de Massachusetts (MIT), Estados Unidos_
 
 
 —¿Qué responderían ustedes si les dijese que el caos presenta un tipo de orden propio? —Así comenzó el doctor Kyle Santiago del MIT su seminario trimestral sobre patrones fractales. Apenas superaba la treintena y era ya un matemático de renombre mundial. Es cierto lo que dicen: en matemáticas o despegas temprano o te quedas en tierra. Y Kyle definitivamente había despegado.
@@ -156,7 +156,7 @@ Era un día soleado, pero aun así sentía que una «tormenta no meteorológica�
 //
 
 
-Base de las Fuerzas Especiales Estadounidenses, Al-Hadah, Yemen
+_Base de las Fuerzas Especiales Estadounidenses, Al-Hadah, Yemen_
 
 
 —El Señor es mi pastor, nada me falta: en verdes praderas me hace recostar; me conduce hacia fuentes tranquilas y repara mis fuerzas. Me guía por el sendero justo, por el honor de su nombre. Aunque camine por cañadas oscuras, nada temo, porque Tú vas conmigo…
@@ -205,7 +205,7 @@ Brad cogió su gorra y se dio la vuelta, tan solo parando a la entrada de la tie
 //
 
 
-Radio Observatorio Astrofísico «Dominion», Kaleden, Colombia Británica, Canadá
+_Radio Observatorio Astrofísico «Dominion», Kaleden, Colombia Británica, Canadá_
 
 
 La doctora Hannah Coleman cerró su oficina. Había sido un día largo y ansiaba relajarse en casa. Se consideraba afortunada de que Peter, su esposo, fuera un padre cariñoso, un gran cocinero y un profesional que trabajaba desde casa. Su oficio de escritor le otorgaba una gran flexibilidad y podía compaginarla con el cuidado de los niños.
