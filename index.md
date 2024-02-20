@@ -32,11 +32,11 @@ Un objeto tan grande como una ciudad y perfectamente triangular se estaciona det
 
 Kyle Santiago, un genio de las matemáticas, es transportado por agentes gubernamentales a una instalación secreta donde varios países desarrollan una expedición para investigar los orígenes y el porqué del objeto —una alianza inestable y plagada de sospechas internas y conflictos políticos—.
 
-Durante el entrenamiento, Kyle conoce a la exbióloga Hannah Coleman y a los demás miembros de un equipo internacional compuesto por científicos de élite y veteranos de las fuerzas especiales. Tan solo cuatro meses después se encontrarán a bordo de un cohete rumbo al ente misterioso.
+Durante el entrenamiento, Kyle conoce a la exobióloga Hannah Coleman y a los demás miembros de un equipo internacional compuesto por científicos de élite y veteranos de las fuerzas especiales. Tan solo cuatro meses después se encontrarán a bordo de un cohete rumbo al ente misterioso.
 
 El objeto es impenetrable, pero algunas pistas indican que el primer paso para desvelar el misterio podría hallarse en la superficie lunar.
 
-EL OBJETO cuenta la historia de un científico superdotado pero también sobrepasado por unos eventos que pondrán en cuestión nuestra manera de entender la historia y el universo.
+EL OBJETO cuenta la historia de un científico superdotado pero también sobrepasado por unos acontecimientos que pondrán en cuestión nuestra manera de entender la historia y el universo.
 
 
 -----
@@ -56,9 +56,9 @@ Will they be able to avert the menace and finally have their scientific curiosit
 
 ### RESUMEN
 
-Kyle, Hannah y varias caras nuevas y conocidas vuelven a la órbita lunar para entrar de nuevo en EL OBJETO en un esfuerzo para salvar la Tierra de una amenaza inesperada. Esta vez saben mucho más sobre la entidad misteriosa y quiénes están detrás de ella tras meses de dedicado estudio y escrutinio. No obstante, aún quedan muchas incógnitas por despejar.
+Kyle, Hannah y varias caras nuevas y otras conocidas vuelven a la órbita lunar para entrar de nuevo en EL OBJETO en un esfuerzo para salvar la Tierra de una amenaza inesperada. Esta vez conocen mucho más sobre la entidad misteriosa y quiénes están detrás de ella tras meses de dedicado estudio y escrutinio. No obstante, aún quedan muchas incógnitas por despejar.
 
-¿Serán capaces de evitar la amenaza y finalmente saciar su curiosidad científica?
+¿Serán capaces de eludir la amenaza y finalmente saciar su curiosidad científica?
 
 -----
 
