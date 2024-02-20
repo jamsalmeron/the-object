@@ -541,17 +541,11 @@ Kyle se estremece y despierta en su cama empapado en sudor una vez más. Mirando
 ### INVOCACIONES
 _Día 121_
 
-Valentina Dyakova, al igual que su querido y desaparecido amigo Raúl, es una persona profundamente religiosa. En su caso, una devota cristiana ortodoxa.
-
-Sin embargo, hace algo extremadamente inesperado después de concluir una amarga —y muy inútil— pelea con Ackerman acerca de cuestiones geopolíticas: se levanta y sale de la habitación.
-
-Más tarde, el equipo nota que no la han visto durante todo el día y comienzan a preocuparse. Después de muchas horas recorriendo los pasillos y estancias de la Nave así como varios encuentros con los «benignos» robots mariposa, regresan a sus habitaciones con las manos vacías.
-
 Horrorizados todos se iban dando cuenta de que cuanto más intentan alimentarse mediante las invocaciones que encontraron en la base de datos, más locos se están volviendo. Por ejemplo, Hannah se había estado hurgando la piel con una navaja y anda cubierta de llagas y cortes profundos. Ackerman está constantemente enojado, a veces explotando en fuertes arrebatos de ira que duran horas. Y no han encontrado ni a Birgisson ni a Raúl.
 
 Todos acuerdan reducir la recitación de hechizos al mínimo absoluto y renovar su búsqueda de formas para regresar a casa.
 
-Se preguntaban cómo los Visitantes lograban resistir su uso diario de hechizos y aún así seguir funcionando. Valentina ofrece una teoría: quizá fuese a través de ofrendas de sacrificios humanos... algo relacionado con las habitaciones sumergidas y los cautivos que sufrían en ellas. Eran un pueblo completamente corrupto, está segura de ello.
+Se preguntaban cómo los Visitantes lograban resistir su uso diario de hechizos y aún así seguir funcionando. Valentina Dyakova, al igual que su querido y desaparecido amigo Raúl, es una persona profundamente religiosa. En su caso, una devota cristiana ortodoxa. Ella ofrece una teoría: la habilidad de los Visitantes de vivir y funcionar sin problemas quizá tuviese que ver con las ofrendas de sacrificios humanos... algo relacionado con las habitaciones sumergidas y los cautivos que sufrían en ellas. Se trataba de un pueblo completamente corrupto, está segura de ello.
 
 Y sin embargo la tripulación necesita de nutrición para sobrevivir. La misma Valentina, tan pronto como llega a su habitación comienza una larga secuencia de intentos, utilizando diferentes combinaciones de palabras que han funcionado a veces en el pasado, pero casi nunca más de una vez seguida.
 
@@ -571,6 +565,8 @@ Pero la canción la llama desde una nueva parte de la Nave, ¡y es tan hermosa!
 
 «Sounds like a signal from you / Bring me to meet your sound / And I will bring you to my heart».
 
+Más tarde el equipo nota que no han visto a Valentina desde hacía horas y comienzan a preocuparse. Después de muchas horas recorriendo los pasillos y estancias de la Nave así como varios encuentros con los «benignos» robots mariposa, regresan a sus aposentos con las manos vacías.
+
 
 //
 
@@ -581,9 +577,9 @@ Habiendo perdido también todo rastro de Valentina, los tres expedicionarios res
 
 Kyle, Hannah y Ackerman llevaban varios días sin comer ni beber por haber decidido reducir el uso de las invocaciones. Esto había sido duro, pero al menos recuperaban lentamente su cordura.
 
-El Comandante tiene una idea: podrían intentar encontrar el tanque de líquido (la sala de castigo) y comprobar si el líquido es potable. Kyle y Hannah piensan que la idea es repugnante, tonta y sin sentido, pero el militar decide que intentarlo no haría daño alguno.
+El Comandante tiene una idea: podrían intentar encontrar el tanque de líquido (la sala de castigo) y comprobar si el líquido es potable para saciar su sed. Kyle y Hannah piensan que la idea es repugnante, tonta y sin sentido, pero el militar decide que intentarlo no haría daño alguno.
 
-En contra de su acuerdo de estar siempre juntos, decided que Kyle irá a la sala de control para seguir investigando el cómo volver, mientras Ackerman y Hannah buscan la «cámara de horrores».
+En contra de su acuerdo de estar siempre juntos, deciden que Kyle irá a la sala de control para seguir investigando el cómo volver, mientras Ackerman y Hannah buscan la «cámara de horrores».
 
 Se pasan nueve horas caminando y colocando rastreadores en las paredes, pero finalmente llegan al local tipo auditorio donde había tenido lugar la orgía de los Visitantes, al lado del que habían visto el tanque sellado que contenía a los prisioneros.
 
@@ -619,15 +615,15 @@ La interfaz de navegación es clara: como en un GPS, el triángulo que represent
 
 Han perdido varios kilos y están débiles por el hambre y la sed, pero decididos a minimizar la frecuencia con la que recurren a la magnanimidad de los controles (o constructores) de la Nave, dadas las experiencias que han tenido hasta ahora.
 
-Pasaban gran parte de su tiempo en sus habitaciones contiguas hablando de cuánto echaban de menos sus vidas. Es como si no estuvieran del todo muertos, pero tampoco vivos. Sellados en aquella terrible tumba interestelar, continúan monitoreando el progreso de la Nave.
+Pasaban gran parte de su tiempo en sus habitaciones contiguas hablando de cuánto echaban de menos sus vidas anteriores. Es como si no estuvieran del todo muertos, pero tampoco vivos. Sellados en aquella terrible tumba interestelar, continúan monitoreando el progreso de la Nave.
 
-Kyle todavía siente atracción por Hannah, pero sus mutuas circunstancias son tan graves y el recuerdo de; difunto esposo de ella tan reciente, que había notado cómo dejaron de estar emocionalmente disponibles el uno para el otro.
+Kyle todavía siente atracción por Hannah, pero sus mutuas circunstancias son tan graves y el recuerdo del difunto esposo de ella tan reciente, que había notado cómo dejaron de estar emocionalmente disponibles el uno para el otro.
 
-Una buena noticia es que finalmente encontraron baños, duchas e invocaciones para operarlos. Soltaban un vaporcito que rodeaba sus cuerpos limpiándolos por completo. Cómodo, pero al precio de más invocaciones y una salud mental fluctuante.
+Una buena noticia es que finalmente encontraron baños, duchas e invocaciones para hacerlos funcionar. Soltaban un vaporcito que rodeaba sus cuerpos limpiándolos por completo. Cómodo, pero al precio de más invocaciones y una salud mental fluctuante.
 
 Qué destino tan desolado y extraño. ¿Quién habría imaginado cuando se conocieron por primera vez que estarían abocados a cumplir una condena de por vida en el exilio más lejano imaginable?
 
-Lo peor de todo es el sentimiento desgarrador por su necesidad de seguir dependiendo de los sufrimientos de sus camaradas para impulsarse de vuelta a la Tierra, mientras también se ven obligados a continuar con los terribles hechizos y resultantes alucinaciones. Los necesitaban para sobrevivir y guiar la Nave de regreso a casa.
+Lo peor de todo es el sentimiento desgarrador por su necesidad de seguir dependiendo de los sufrimientos de sus camaradas para impulsarse de vuelta a la Tierra, mientras también se ven obligados a continuar con los terribles hechizos y resultantes alucinaciones. Los necesitaban para sobrevivir y guiar la Nave de regreso a la Tierra.
 
 
 -----
@@ -674,9 +670,9 @@ Agotados, se dejan caer el uno en brazos del otro y sobre el insondable suelo bl
 
 _Día 684_
 
-Durante un año y medio Kyle y Hannah usaron las poderosas palabras de los Visitantes para dirigir la Nave en su intento de regresar a casa. Pasaron de un lugar a otro del universo hasta que, finalmente, encontraron una invocación que los envió de regreso a la órbita de la Luna.
+Durante un año y medio Kyle y Hannah usaron las poderosas palabras de los Visitantes para dirigir la Nave en su intento de regresar a casa. Pasaron de un lugar a otro del universo hasta que, finalmente, ¡ENCONTRARON UNA INVOCACIÓN QUE LOS ENVIÓ DE REGRESO A LA ÓRBITA DE LA LUNA!
 
-Durante este tiempo de desesperado viaje, Hannah y Kyle estudiaron gran parte de los archivos y descubrieron que la Nave de hecho no viaja más rápido que la luz. por el contrario, se translada por medios completamente preternaturales. A persar de lo perturbador de ese aspecto, abrió su esperanza de que quizás las leyes de la relatividad no hayan sido aplicables a su viaje después de todo. ¿Se atreverían a soñar con un posible regreso a sus familias y amigos?
+Durante este tiempo de desesperado viaje, Hannah y Kyle estudiaron gran parte de los archivos y descubrieron que la Nave de hecho no viaja más rápido que la luz. Por el contrario, se translada por medios completamente preternaturales. A persar de lo perturbador de ese aspecto, abrió su esperanza de que quizá las leyes de la relatividad no hayan sido aplicables a su viaje después de todo. ¿Se atreverían a soñar con un posible regreso a sus familias y amigos?
 
 Además, aunque la Nave está controlada por fuerzas espirituales que pueden viajar a cualquier lugar del universo instantáneamente pues están fuera del espacio-tiempo —como aquellas tres criaturas invocadas por el chamán en el video— los humanos son seres materiales, por lo que tanto los Visitantes como ellos mismos necesitan algún vehículo para desplazarse. Y por rápido que haya sido, no fue instantáneo.
 
@@ -700,15 +696,15 @@ A cinco minutos de haber comenzado a caminar desde el lugar de aterrizaje de la 
 
 Los lugareños están sucios y desaliñados y muy asustados de los recién llegados, a quienes ponen en confinamiento de inmediato.
 
-Durante los días Kyle y Hannah recuperan su claridad mental y se calman a medida que los efectos de su tiempo a bordo de la Nave del Visitante disminuyen. Sus captores aceptan liberarlos.
+Durante dos días Kyle y Hannah recuperan su claridad mental y se calman a medida que los efectos de su tiempo a bordo de la Nave del Visitante disminuyen. Sus captores aceptan liberarlos.
 
-Kyle comienza a hacer preguntas a sus ya anfitriones y se entera de que es 2028, solo dos años después de su partida a HD1.
+Kyle comienza a hacer preguntas a sus ya anfitriones y se entera de que están en el año 2028, solo dos después de su partida a HD1.
 
 Hannah se emociona al recibir esta noticia. Kyle también, por supuesto, pero ella recupera tanta esperanza de reunirse con Peter, Caleb y Paul que inmediatamente decide abandonar el campamento y comenzar a buscarlos. Y en realidad los dos habían elegido aterrizar en Canadá ya hace más de una semana precisamente para facilitarle a Hannah encontrar respuestas sobre lo que pudo haberle sucedido a su familia.
 
 Así, Hannah se despide de Kyle con gran tristeza y algo de alivio. Siempre serán amigos, pero su vergüenza compartida y las experiencias tan traumáticas que sufrieron han formado una pared que los separa.
 
-Es mejor así, piensa Kyle, yuda que alguna vez vuelva a verla. O quiera hacerlo.
+Es mejor así, piensa Kyle, y duda que alguna vez vuelva a verla. O quiera hacerlo.
 
 Por supuesto, Kyle se preocupa por la seguridad de Hannah en la sociedad tan profundamente transformada que dejó el Enjambre, pero él tiene su propio viaje por delante, y es mucho más largo.
 
@@ -720,15 +716,15 @@ _Día 734_
 
 Durante los siguientes días, Kyle recupera sus fuerzas con la ayuda de sus anfitriones. No hay electricidad ni agua corriente, y la comida y la bebida son escasas, pero definitivamente son mejores y más abundantes que en la Nave Visitante.
 
-Kyle está más que feliz de ayudar en las actividades cotidianas. Había sido asignado como centinela, reclutado para construir nuevas tiendas con materiales encontrados, para buscar suministros y demás.
+Kyle está más que feliz de poder ayudar con las actividades cotidianas. Había sido asignado como centinela, reclutado para construir nuevas tiendas con materiales encontrados, para buscar suministros y demás.
 
 En el camino, aprende mucho sobre lo que sucedió en el planeta durante su ausencia. Aparentemente, todos los enjambres cesaron su actividad destructiva después de aplastar gran parte de la civilización. Sin que nadie entendiera por qué, se retiraron a su lugar de llegada en Florida y permanecieron activados pero inmóviles. Nadie se ha atrevido a ir allí de nuevo.
 
-Kyle se pregunta si de forma involuntaria alguna de sus invocaciones a bordo de la Nave podría haber puesto en espera al Enjambre. Pura especulación. En lo que respecta a los Visitantes, cuanto más aprendías, más te dabas cuenta de que no sabías casi nada.
+Kyle se pregunta si de forma involuntaria alguna de sus invocaciones a bordo de la Nave podría haber puesto en "stand by" al Enjambre. Pura especulación. En lo que respecta a los Visitantes, cuanto más aprendías, más te dabas cuenta de que no sabías casi nada.
 
-Le cuesta recordar a sus compañeros —es demasiado doloroso— pero espera sinceramente que lRaúl, Valentina, Ackerman y Birgisson hayan tenido una muerte rápida. Su conciencia está intranquila por haber dependido de lo que la Nave extrajo de sus compañeros para cruzar el universo de regreso a casa.
+Le cuesta recordar a sus compañeros —es demasiado doloroso— pero espera sinceramente que Raúl, Valentina, Ackerman y Birgisson hayan tenido una muerte rápida. Su conciencia está intranquila por haber dependido de lo que la Nave extrajo de sus compañeros para cruzar el universo de regreso a casa.
 
-La nueva misión vital de Kyle será encontrar aluna manera de recuperar los cuerpos de los caidos en esa obscena Nave que ahora orbita la Tierra —algo que podría no ser inmediatamente posible si, como sospecha, la civilización está en ruinas a nivel global y el Proyecto Ática, la Junta Directiva, Sonia y todos los demás estén ahora viviendo en las proverbiales cuevas .
+La nueva misión vital de Kyle será encontrar alguna manera de recuperar los cuerpos de los caidos en esa obscena Nave que ahora orbita la Tierra —algo que podría no ser inmediatamente posible si, como sospecha, la civilización está en ruinas a nivel global y el Proyecto Ática, la Junta Directiva, Sonia y todos los demás estén ahora viviendo en las proverbiales cuevas—.
 
 Kyle nunca volverá a ser el mismo.
 
