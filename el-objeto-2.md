@@ -26,7 +26,7 @@ Temprano en la mañana, un parque urbano abandonado junto a un lago, cubierto de
 
 Dos barbudos desaliñados y de cabello largo hurgan entre los montones de basura, picoteándolos rápidamente con largos palos, como si tuvieran prisa o miedo de permanecer allí mucho tiempo. Después de unos minutos de sombría charla se detienen y enfocan su vista en la distancia.
 
-Ven lo que parece ser un hombre y una mujer caminando lentamente hacia ellos difuminados por la espesa niebla. Los barbudos levantan sus palos en una postura defensiva instintivamente.
+Difuminados por la espesa niebla, creen poder ver un hombre y una mujer caminando lentamente hacia ellos. Instintivamente los barbudos levantan sus palos en una postura defensiva.
 
 
 -----
@@ -41,11 +41,11 @@ Pero no todo es radiante en esa parte del «Estado del Sol». Nuestros ciclistas
 
 Los bomberos intentan controlar la situación mientras la policía se asegura de que nadie cruce sus líneas de control.
 
-La única chica en nuestro trío de ciclistas se acerca a una policía para preguntar de qué se trata todo eso, pero es despedida con un «sigue adelante, niña, no hay nada que ver».
+La única chica en nuestro trío de ciclistas se acerca a una mujer policía para preguntar de qué se trata todo eso, pero es despedida con un «sigue adelante, niña, no hay nada que ver».
 
-De repente, la gente empieza a gritar mientras se dispersa en pánico. Se escucha un sonido amenazador como de turbina, proveniente del incendio y, unos minutos después, la chica ve algo que nunca olvidará.
+De repente, la gente empieza a gritar de pánico mientras se dispersa. Se escucha un sonido amenazador como de turbina, proveniente del incendio y, unos minutos después, la chica ve algo que nunca olvidará.
 
-Una especie de tornado metálico engulle deliberadamente a grupos enteros de personas a una velocidad aterradora, formando nubes rojas a medida que sus víctimas son trituradas y convertidas en vapor. Los policías disparan a la cosa sin efecto alguno.
+Una especie de tornado metálico engulle deliberadamente a grupos enteros de personas a una velocidad aterradora, formando nubes rojas a medida que sus víctimas son trituradas y convertidas en vapor. Los policías disparan a aquella cosa sin efecto alguno.
 
 Muy pronto alcanza a los adolescentes que se habían quedado congelados de miedo, pero enseguida giran sus bicicletas para intentar huir y escuchan cómo más gente es masacrada detrás de ellos mientras pedalean a toda prisa de vuelta a sus hogares.
 
@@ -56,11 +56,11 @@ Muy pronto alcanza a los adolescentes que se habían quedado congelados de miedo
 ### UNA DE MUCHAS SESIONES INFORMATIVAS
 _Día 9_
 
-Sonia Rogers, líder del Proyecto Ática, esta sentada en su oficina mirando intensamente un enorme monitor dividido en doce ventanas pequeñas. Cada una contiene el rostro de un miembro de la Junta Directiva —la organización supragubernamental detrás de la respuesta de la Tierra a la Nave Visitante— conferenciando desde distintos lugares del mundo: EE.UU., Canadá, Reino Unido, Francia, Alemania, España, Italia, Polonia, Noruega, Hungría, Rusia y China.
+Sonia Rogers, líder del Proyecto Ática, está sentada en su oficina mirando intensamente un enorme monitor dividido en doce ventanas pequeñas. Cada una contiene el rostro de un miembro de la Junta Directiva —la organización supragubernamental detrás de la respuesta de la Tierra a la Nave Visitante— conferenciando desde distintos lugares del mundo: EE.UU., Canadá, Reino Unido, Francia, Alemania, España, Italia, Polonia, Noruega, Hungría, Rusia y China.
 
-En estos momentos actualiza a los representates de la Junta sobre el estado de la lucha contra la invasión del Enjambre. El atacante había aterrizado junto a los restos del Teseo en el noreste de Florida y poco después comenzó a causar estragos, haciendo copias de sí mismo y extendiendo su alcance de ciudad en ciudad. Afortunadamente, avanzaba más lentamente de lo que se había temido, pero ya se estaban avistando enjambres en múltiples ubicaciones a lo largo de EE.UU. y las bajas se acumulan. Hasta ahora, alrededor de 20,500 personas han muerto y otras 41,000 están heridas.
+En estos momentos actualiza a los representates de la Junta sobre el estado de la lucha contra la invasión del Enjambre. El atacante había aterrizado junto a los restos del Teseo en el noreste de Florida y poco después comenzó a causar estragos, haciendo copias de sí mismo y extendiendo su alcance de ciudad en ciudad. Afortunadamente, avanzaba más lentamente de lo que se había temido, pero ya se estaban avistando enjambres en múltiples ubicaciones a lo largo de EE.UU. y las bajas se acumulaban. Hasta ahora, alrededor de 20,500 personas habían muerto y otras 41,000 estaban heridas.
 
-Las contramedidas están mejorando. Más allá de las granadas de implosión y lanzallamas de termita, ha habido cierto éxito con redes de cerámica microtejida que capturan a un enjambre hasta por quince minutos antes de ser vulneradas. También se están realizando pruebas a una nueva forma de arma de explosión sónica que parece prometedora.
+Las contramedidas están mejorando. Más allá de las granadas de implosión y lanzallamas de termita, ha habido cierto éxito con redes de cerámica microtejida que capturan a un enjambre hasta quince minutos antes de, inevitablemente, ser vulneradas. También se están realizando pruebas a una nueva forma de arma de explosión sónica que parece prometedora.
 
 Sonia asegura a todos que hay planes adicionales inmediatos para terminar con aquella pesadilla de una vez por todas.
 
@@ -71,17 +71,17 @@ Sonia asegura a todos que hay planes adicionales inmediatos para terminar con aq
 ### LA REUNIÓN
 _Día 64_
 
-El hogar del comandante Jim Ackerman en Virginia Beach, EE. UU. Maggie Ackerman —la hija de 4 años de Jim Ackerman— juega sentada sobre la hierba del patio trasero. Una brisa suave mece el columpio detrás de ella.
+El hogar del comandante Jim Ackerman en Virginia Beach, EE. UU. Maggie Ackerman —su hija de 4 años— juega sentada sobre la hierba del patio trasero. Una brisa suave mece el columpio detrás de ella.
 
-Su padre y su tía Tess salen de la casa a través de una cristalera corrediza. El padre —vestido con su uniforme militar— se le acerca de forma tentativa. Su tía permanece unos pasos detrás.
+Su padre y su tía Tess salen de la casa a través de una cristalera corrediza. El padre —vestido con su uniforme militar— se acerca a la niña de forma tentativa. Su tía permanece unos pasos detrás.
 
-Arrodillándose, el comandante Ackerman le explica que lo han llamado para irse por un corto tiempo, pero que su tía se hará cargo de ella mientras tanto. La niña sube la mirada y le pregunta a su padre a dónde va y cuándo volverá. El padre no responde, se levanta y mira hacia atrás a la tía que ya tiene lágrimas en los ojos. Luego se vuelve hacia la niña y la besa en la frente antes de recoger su mochila, saliendo de la casa piensa en cuánto echa de menos a su esposa en momentos como estos.
+Arrodillándose, el comandante Ackerman le explica que lo han llamado para irse durante un corto tiempo, pero que su tía se hará cargo de ella mientras tanto. Maggie sube la mirada y le pregunta a su padre a dónde va y cuándo volverá. El padre no responde, se levanta y mira hacia atrás a la tía que ya tiene lágrimas en los ojos. Luego se vuelve hacia la niña y la besa en la frente antes de recoger su mochila, saliendo de la casa piensa en cuánto echa de menos a su esposa en momentos como estos.
 
 
 //
 
 
-Kyle Santiago está cenando frente al televisor en su apartamento de un dormitorio en Cambridge, Massachusetts, mientras ve con tristeza videos de YouTube que muestral al Enjambre sembrando destrucción por toda América.
+Kyle Santiago está cenando frente al televisor en su apartamento de un dormitorio en Cambridge, Massachusetts, mientras ve con tristeza videos de YouTube que muestran al Enjambre sembrando destrucción por toda América.
 
 En esos momentos suena el teléfono.
 
@@ -91,7 +91,7 @@ Insiste en que, a menos que regresen a la Nave y encuentren una forma de detener
 
 Decir que Kyle se muestra reacio a volver a la sede del Proyecto Ática y unirse a esta misión sería quedarse corto —aunque se había sentido algo culpable por no haber sido capaz de detectar ninguna de las partículas del Enjambre a bordo del Teseo—.
 
-Sin embargo, ella deja claro que no hay tiempo que perder...y que Hannah se unirá a ellos. Se sorprende (muy positivamente) por esta revelación dado que Hannah había filtrado información sobre la Nave al New York Times, pero inmediatamente acepta la invitación de Sonia.
+Sin embargo, Sonia deja claro que no hay tiempo que perder...y que Hannah se unirá a ellos más tarde. Se sorprende (muy positivamente) por esta revelación dado que Hannah había sido la que filtró información sobre la Nave Visitante al New York Times.
 
 
 //
@@ -99,13 +99,13 @@ Sin embargo, ella deja claro que no hay tiempo que perder...y que Hannah se unir
 
 _Día 70_
 
-El Cosmódromo de Plesetsk está inmerso en el habitual día frío y gris. Kyle es escoltado a una gran sala de conferencias donde se alegra muchísimo al ver a Hannah. Supone que los eventos recientes fueron de tal magnitud que todas las demás consideraciones se volvieron nulas en comparación con la necesidad de encontrar formas de desactivar o destruir al Enjambre. Incluso las filtraciones de información, intrigas políticas y asesinatos habían sido dejados de lado.
+El Cosmódromo de Plesetsk está inmerso en un habitual día frío y gris. Kyle es escoltado a una gran sala de conferencias donde se alegra muchísimo de ver a Hannah. Supone que los eventos recientes fueron de tal magnitud que todas las demás consideraciones se volvieron nulas en comparación con la necesidad de encontrar formas de desactivar o destruir al Enjambre. Incluso las filtraciones de información, intrigas políticas y asesinatos habían sido dejados de lado.
 
 Ambos se abrazan con cariño, aunque un poco secamente dadas las tristes circunstancias.
 
-Hannah y Kyle no están solos. Alrededor de la sala de conferencias están sentados varios de los antiguos colegas que sobrevivieron y quienes también lo saludan calurosamente: Chen Liu el líder de inteligencia militar china, Raúl Carter el sargento de fuerzas especiales, Valentina Dyakova la médica y Boris Vasiliev el piloto. Kyle se alegra de ver que Raúl y Valentina siguen siendo tan coquetos como siempre. Es un gran recordatorio de la tenacidad humana frente al mal.
+Hannah y Kyle no se encuentran solos. Alrededor de la sala de conferencias están sentados varios de los antiguos colegas que sobrevivieron y quienes también lo saludan calurosamente: Chen Liu el líder de inteligencia militar china, Raúl Carter el sargento de fuerzas especiales, Valentina Dyakova la médica y Boris Vasiliev el piloto. Kyle se alegra de ver que Raúl y Valentina siguen siendo tan coquetos como siempre. Es un gran recordatorio de la tenacidad humana frente al mal.
 
-Sonia les presenta a dos caras nuevas: el comandante Ackerman —el reemplazo del coronel Turner— y un vikingo enorme y muy tatuado: el cabo Mattheus Birgisson.
+Sonia les presenta a dos caras nuevas: el comandante Ackerman —el reemplazo del coronel Turner— y un vikingo enorme y muy tatuado, el cabo Mattheus Birgisson.
 
 
 //
@@ -113,15 +113,15 @@ Sonia les presenta a dos caras nuevas: el comandante Ackerman —el reemplazo de
 
 Tanto los veteranos de las misiones a la Nave de los Visitantes como los nuevos reclutas son llevados a la instalación de entrenamiento del Cosmódromo de Plesetsk, donde el teniente Armand Bisset les espera, una vez más, para instruirlos.
 
-Explica cómo se organizó esta nueva misión en tiempo récord: apenas dos meses después del primer choque con el Enjambre. Ayudó que muchos más países contribuyeran al esfuerzo esta vez y que la nueva nave —llamada Egeo— es mucho más pequeña.
+Explica cómo se organizó esta nueva misión en tiempo récord: apenas dos meses después del primer choque con el Enjambre. Ayudó el que muchos más países contribuyeran al esfuerzo esta vez y que la nueva nave —llamada Egeo— es mucho más pequeña.
 
 Solo llevará a ocho miembros de la tripulación en lugar de los doce del Teseo. Además transportará una carga útil mucho más pequeña sin instrumentación científica y sin módulo lunar.
 
-El equipo de la tripulación ha mejorado considerablemente desde la último experición. Las cámaras de video están montadas sobre una diadema que llevarán puesta en la cabeza bajo los cascos. Saben que la atmósfera de la Nave es respirable, así que esta vez no llevarán puestos los cascos tras su llegada.
+La equipación del grupo había mejorado considerablemente desde la último expedición. Las cámaras de video están montadas sobre una diadema que llevarán puesta en la cabeza bajo los cascos. Saben que la atmósfera de la Nave es respirable, así que esta vez no se quedarán con los cascos puestos tras su llegada.
 
-En el caso improbable de que se encuentren con el Enjambre a bordo de la Nave, las armas han sido rediseñadas tras la pasada experiencia en la base Lunar de los Visitantes. Los rifles son más simples, habiendo sido eliminados tanto los proyectiles de diferentes tipos como el lanzallamas, a favor de un arma única pero más efectiva: explosiones de microondas subsónicas que interrumpen la coordinación entre las innumerables partículas que forman los Enjambres. Con cada explosión, muchas de las partículas también quedan permanentemente deshabilitadas.
+En el caso improbable de que se encuentren con el Enjambre a bordo de la Nave, las armas han sido rediseñadas tras la pasada experiencia en la base Lunar de los Visitantes. Los rifles son más simples, habiendo sido eliminados tanto los proyectiles de diferentes tipos como el lanzallamas, a favor de un arma única pero más efectiva: explosiones de microondas subsónicas que interrumpen la coordinación entre las innumerables partículas que forman los Enjambres. Con cada explosión, muchas de las partículas también quedan permanentemente inabilitadas.
 
-Después de la explicación se van al campo de tiro para revisar y aprender a usar el nuevo equipo y armamento.
+Después de la explicación se van al campo de tiro para aprender a usar el nuevo equipo y armamento.
 
 
 //
@@ -129,7 +129,7 @@ Después de la explicación se van al campo de tiro para revisar y aprender a us
 
 _Día 73_
 
-Abrigarados pero contentos de poder pasar un rato juntos, Kyle y Hannah pasean por la base de Plesetsk la noche antes de su regreso a la Nave Visitante. Todavía hay algo entre ellos, pero lo reprimen prudentemente.
+Solemnes pero contentos de poder pasar un rato juntos, Kyle y Hannah pasean por la base de Plesetsk la noche antes de su regreso a la Nave Visitante. Todavía hay algo entre ellos, pero lo reprimen prudentemente.
 
 Su conversación va desde el recuerdo de sus camaradas caídos hasta cómo abordar mejor la investigación de la base de datos de la Nave.
 
@@ -150,7 +150,7 @@ Tras haber cruzado el escudo membranoso invisible que separa el vacío del espac
 
 Su objetivo es encontrar una forma de desactivar el Enjambre. Solo en segundo lugar, si el tiempo lo permite, determinarán qué le sucedió a la civilización de los Visitantes y el porqué de la exploración espacial de tan ancestral sociedad.
 
-Ackermann da la orden de formar una fila única y marchar hacia la sala de control siguiendo los rastreadores que la primera tripulación estableció meses antes.
+Ackermann da la orden de formar una fila única y marchar hacia la sala de control siguiendo los rastreadores que la primera tripulación dejó atrás meses antes.
 
 
 //
@@ -158,23 +158,23 @@ Ackermann da la orden de formar una fila única y marchar hacia la sala de contr
 
 Después de una larga caminata a través de los interminables corredores de la Nave, la tripulación llega a la sala de control. El cadáver del único tripulante Visitante que habían descubierto durante la misión del Teseo está aún agachado en la esquina más alejada de la sala. Había sido la clave para descubrir la muy humana naturaleza de los Visitantes. Valentina se acerca al cadáver para estudiarlo más a fondo.
 
-Kyle se acerca a la consola del pilar central superando su aprensión y de inmediato comienza de nuevo a sentirse como un fracaso absoluto. Es cierto, habían sido capaces de traducir la mayor parte del idioma de los Visitantes y descubir muchos datos sobre su cultura y propósitos: sabían que el Enjambre era un arma desarrollada por los propios Visitantes para lo que se suponía era una larga guerra intestina entre facciones políticas. Sin embargo, nadie había encontrado evidencia alguna de que el Enjambre pueda ser desarmado o desactivado.
+Kyle se pone frente a la consola del pilar central superando su aprensión y de inmediato comienza de nuevo a sentirse como un fracaso absoluto. Es cierto, habían sido capaces de traducir la mayor parte del idioma de los Visitantes y descubir muchos datos sobre su cultura y propósitos: sabían que el Enjambre era un arma desarrollada por los propios Visitantes para lo que se suponía era una larga guerra intestina entre facciones políticas. Sin embargo, nadie había encontrado evidencia alguna de que el Enjambre pueda ser desarmado o desactivado.
 
-Todo el equipo científico del Proyecto Ática, incluido Kyle, se había quedado desconcertado por el tono de los textos de los Visitantes. La prosa tenía un carácter religioso y ritualista a diferencia de la jerga operativa, militar o de ingeniería que ellos habían supuesto encontrar.
+Todo el equipo científico del Proyecto Ática, incluido Kyle, se había quedado desconcertado por el tono de los textos de los Visitantes. La prosa tenía un carácter religioso y ritualista a diferencia de la jerga operativa, militar o de ingeniería que habían supuesto encontrar.
 
-Para una civilización tan avanzada, los Visitantes parecían completamente desinteresados en la ciencia. Este enigma es la principal fuente de frustración de Kyle, aunque aún tiene la esperanza de que esta nueva misión arroje mejores frutos. Porque ahora entiende el idioma de los Visitantes, esta búsqueda puede ser más dirigida.
+Para una civilización tan avanzada, los Visitantes parecían completamente desinteresados en la ciencia. Este enigma es la principal fuente de frustración de Kyle, aunque aún tiene la esperanza de que la nueva misión arroje mejores frutos. Porque ahora entiende el idioma de los Visitantes, su búsqueda puede ser más dirigida.
 
 
 //
 
 
-Kyle activa la interfaz de navegación con cierta trepidación colocando su mano abierta sobre la superficie del pilar. La sala de control cobra vida con la ya familiar interfaz inmersiva tridimensional, casi como un sistema operativo, proporcionando acceso a todos los archivos de texto y video en la base de datos de la Nave.
+Kyle activa la interfaz de guía con cierta trepidación colocando su mano abierta sobre la superficie del pilar. La sala de control cobra vida con los ya familiares controles tridimensionales, casi como un sistema operativo, proporcionando acceso a todos los archivos de texto y video en la base de datos de la Nave.
 
-Mientras el comandante Ackerman, Raúl y el cabo Birgisson permanecen vigilantes, Hannah, Valentina y Kyle filman cada uno de los archivos que abren, pero no encuentran mención alguna del mecanismo de desactivación del Enjambre, o realmente nada en absoluto sobre sus mecanismos. Se referían a él casi rutinaria y casualmente, como un arma o una herramienta. Los Visitantes lo llamaban por un nombre que Kyle no sabía traducir: Tenogheen.
+Mientras el comandante Ackerman, Raúl y el cabo Birgisson permanecen vigilantes, Hannah, Valentina y Kyle filman cada uno de los archivos que abren, pero no encuentran mención alguna del mecanismo de desactivación del Enjambre, o realmente nada en absoluto sobre sus mecanismos. Los Visitantes se referían a él casi rutinaria y casualmente, como un arma o una herramienta. Lo llamaban por un nombre que Kyle no sabía traducir: Tenogheen.
 
-Con renovada preocupación, pregunta a Valentina y Hannah «¿qué creéis que pasará si no pueden derrotar al Enjambre en la Tierra?» Hannah responde que «tal vez necesitemos enbarcar a miles de personas a bordo de esta nave para abandonar nuestro planeta y poder perpetuar la especie». Kyle espera fervientemente que no llegue a eso.
+Con renovada preocupación, pregunta a Valentina y Hannah «¿qué creéis que pasará si no pueden derrotar al Enjambre en la Tierra?» Hannah responde que «tal vez necesitemos enbarcar a miles de personas a bordo de esta nave para abandonar nuestro planeta y poder perpetuar la especie». Kyle espera fervientemente que no se llegue a eso.
 
-Después de un largo día en los controles, aprendiendo todo lo posible, Kyle y Hannah están exhaustos. A Ackerman, Raúl y Birgisson también les vendría bien algo de sueño. El equipo decide caminar hacia el área donde la tripulación del Visitante tenía sus habitaciones y tratar de descansar.
+Después de un largo día en los controles, aprendiendo todo lo posible, Kyle y Hannah están exhaustos. A Ackerman, Raúl y Birgisson también les vendría bien algo de sueño. El equipo decide caminar hacia el área donde la tripulación del la Nave tenía sus habitaciones para y tratar de descansar.
 
 
 -----
@@ -185,13 +185,13 @@ _Día 79_
 
 Kyle se despierta para unirse al resto del equipo y continuar buscando respuestas tras una noche muy corta, inquieta y sin descanso en una de las desoladas habitaciones de la tripulación Visitante.
 
-Aunque entre ambas misiones habían ya muchas horas a bordo de la Nave, solo lograron explorar un tercio de sus cinco kilómetros cuadrados de corredores y habitaciones. Valentina sugiere una expedición a nuevas áreas y proceden con precaución, colocando rastreadores de orientación a medida que avanzan.
+Aunque entre ambas misiones llevaban ya muchas horas a bordo de la Nave, solo lograron explorar un tercio de sus cinco kilómetros cuadrados de corredores y habitaciones. Valentina sugiere una expedición a nuevas áreas y proceden con precaución, colocando rastreadores de orientación a medida que avanzan.
 
 Tristemente, tras varias horas solo encuentran corredores y habitaciones vacías, con el ocasional robot mariposa deslizándose cerca pero completamente indiferente a su presencia.
 
 De repente, Chen rompe el silencio a través del intercomunicador para informar al equipo de noticias provenientes de la Junta Directiva sobre el progreso de ls enjambres en todo el mundo.
 
-Las monstruosidades han infectado la mayor parte del continente, matando a cientos de miles a su paso y motivando una crisis de refugiados asombrosa.
+Las monstruosidades han infectado la mayor parte de los Estados Unidos, matando a cientos de miles a su paso y motivando una crisis de refugiados asombrosa.
 
 La frustración del equipo y una sensación de urgencia en su misión se intensifican. Aquellas sombrías noticias los llevan inexorablemente de vuelta a la base de datos de la sala de control para encontrar la manera de detener aquella carnicería.
 
@@ -205,7 +205,7 @@ Sonia desde la Tierra, Chen y Boris en el Egeo, Ackerman, Raúl y Birgisson se u
 
 Una especie de maestro de ceremonias —un chamán— con una máscara grotesca y vestido con atuendos muy regios y coloridos, entra en un gran auditorio y comienza a dirigirse a una multitud de un par de cientos de hombres y mujeres completamente desnudos.
 
-Mientras el hombre habla, una dulce y escalofriante melodía suena de fondo, en lento crescendo. Su discurso ya no se dirige a la audiencia. Ahora está compuesto de invocaciones poéticas y repetitivas a alguien que no se encuentrra presente y a quien está invocando mientras mira hacia abajo.
+Mientras el chamán habla, una dulce y escalofriante melodía suena al fondo, en lento crescendo. Su discurso ya no se dirige a la audiencia. Ahora está compuesto de invocaciones poéticas y repetitivas a alguien que no se encuentrra presente y a quien está invocando mientras mira hacia abajo.
 
 Kyle se vuelve hacia Hannah y dice «esto es sencillamente pasmante. Casi desearía que hubiéramos traído a un experto en religiones porque estoy perdido».
 
@@ -215,11 +215,11 @@ Kyle se vuelve hacia Hannah y dice «esto es sencillamente pasmante. Casi desear
 
 «Amen!» añade Raúl, guiñando un ojo a Valentina.
 
-La música alcanza su clímax y se transforma en un ritmo de tambor altamente rítmico y complejo. Docenas de personas, que habían estado balanceándose al ritmo de las palabras de su chamán, se vuelven unas hacia otras y comienzan a relacionarse sexualmente.
+La música alcanza su clímax y se transforma en un ritmo de tambor altamente complejo. Docenas de personas, que habían estado balanceándose al ritmo de las palabras de su chamán, se vuelven unas hacia otras y comienzan a relacionarse sexualmente.
 
-Kyle se siente avergonzado de ver aquella gran lascivia proyectada en 3D frente a todo el equipo. Observar un comportamiento sexual tan descarado e inhibido junto a Hannah —una persona casada por la que se siente atraído y con la que casi tuvo contacto íntimo hace unos meses— era simplemente demasiado.
+Kyle se siente avergonzado de ver aquella gran lascivia proyectada en 3D frente a todos sus colegas. Observar un comportamiento sexual tan descarado y desinhibido junto a Hannah —una persona casada por la que se siente atraído y con la que casi tuvo contacto íntimo hace unos meses— es simplemente demasiado.
 
-Por otro lado, no puede evitar cierta excitación, un hecho que de por sí es mortificante porque la espeluznante música, el canto del chamán y el toqueteo generalizado tienen un efecto terrible.
+Por otro lado, no puede evitar cierta excitación, un hecho que de por sí es mortificante porque la inquitante música, el canto del chamán y el toqueteo generalizado tienen un efecto terrible.
 
 Finalmente, Hannah rompe el hechizo haciendo un gesto para avanzar el video y diciendo, «con esto ya hay bastante, ¿os parece?» Todos están inmediatamente de acuerdo.
 
@@ -243,9 +243,9 @@ Ackerman simplemente dice, «esto no es ninguna broma, realmente necesitamos ten
 
 De vuelta en sus habitaciones a bordo de la Nave, el equipo se reagrupa con el Egeo y Sonia.
 
-El episodio les había perturbado y decepcionado profundamente. Habían esperado que una civilización tan avanzada como la de los Visitantes superara las pasiones más bajas humanas. Pero lo más perturbador de todo resultaron ser esos tres monstruos.
+El episodio les había perturbado y decepcionado profundamente. Habían esperado que una civilización tan avanzada como la de los Visitantes hubiesen superado las pasiones humanas más bajas. Pero lo más perturbador de todo resultaron ser esos tres monstruos.
 
-¿Qué eran y qué propósito tenían? ¿De dónde venían? ¿Cómo entraron en la habitación? ¿Habían estado a bordo de la nave todo el tiempo? ¿Siguen aquí!? ¿Se teletransportaron desde lejos? ¿Ese canto estaba diseñado para invocarlos y, de ser así, con qué efecto? ¿Cómo podían aquellos humanos evolucionados participar con gusto en algo tan horrendo? Todo era desconcertante.
+¿Qué eran y cuál sería su propósito? ¿De dónde venían? ¿Cómo entraron en la habitación? ¿Habían estado a bordo de la nave todo el tiempo? ¿Siguen aquí!? ¿Se teletransportaron desde lejos? ¿Ese canto estaba diseñado para invocarlos y, de ser así, con qué efecto? ¿Cómo podían aquellos humanos evolucionados participar con gusto en algo tan horrendo? Todo era desconcertante.
 
 
 -----
@@ -266,15 +266,15 @@ La cámara ahora sigue a su Nave a lo largo de su viaje y, después de un «vuel
 
 La Nave se acerca con cuidado a la superficie lunar mientras se abre un enorme agujero triangular para acogerla. Otras naves parten de la Luna, aparentemente hacia el Sistema Solar, lejos de sus enemigos y del Enjambre.
 
-Hannah aventura que la Nave que regresó a la Tierra el año anterior, y en la que actualmente se encuentran, probablemente pasó eones en búsquedas infructuosas de un planeta habitable y finalmente se rindió después de que todos sus pasajeros murieron y basándose en su programación, o la decisión de cualquier entidad que la estuviera conduciendo. Quizá algunas de las otras naves tuvieran más éxito en sus búsquedas.
+Hannah aventura que la Nave que regresó a la Tierra el año anterior, y en la que actualmente se encuentran, probablemente pasó eones en búsquedas infructuosas de un planeta habitable y finalmente se rindió después de que todos sus pasajeros murieran y basándose en su programación o en la decisión de cualquier entidad que la estuviera conduciendo. Quizá algunas de las otras naves tuvieran más éxito en sus búsquedas.
 
-Siguen escenas desgarradoras que mostraban a miles de personas asustadas desembarcando en una base lunar muy similar a la que Kyle y su tripulación visitaron durante la primera expedición.
+Siguen escenas desgarradoras que muestran a miles de personas asustadas desembarcando en una base lunar muy similar a la que Kyle y su tripulación visitaron durante la primera expedición.
 
 
 //
 
 
-Una noche más que pasar a bordo de la Nave Visitante. Eso es literalmente lo último que a Hannah le apetece e ignorando a su propia conciencia, decide ir a la habitación de Kyle. Solo necesita charlar, sentir el calor de la amistad y el contacto humano. Quería olvidar momentáneamente todo lo que había sucedido durante el último año.
+Una noche más que pasar a bordo de la Nave Visitante. Eso es literalmente lo último que a Hannah le apetece e ignorando su propia conciencia, decide ir a la habitación de Kyle. Solo necesita charlar, sentir el calor de la amistad y el contacto humano. Quiere olvidar momentáneamente todo lo que había sucedido durante el último año.
 
 Kyle la deja entrar al ver su rostro desolado, tras un saludo algo incómodo. Hablan durante horas sobre su situación, sobre sus esperanzas para el futuro, sus familias, sus vidas en la Tierra.
 
@@ -303,11 +303,11 @@ Sonia está en su oficina, actualizando al resto de la Junta Directiva sobre el 
 
 La tripulacion había perdido a Birgisson. Obviamente, debe estar en alguna parte de la Nave, pero no responde a la radio y no lo han localizado, aunque mantienen la esperanza de que vuelva al grupo si, de alguna manera, se hubiese ido voluntariamente. Ahora están investigando si podría haber una entidad hostil en la Nave que pudiera haber atacado al cabo.
 
-La tripulación no ha encontrado nueva información sobre el Enjambre ni cómo puda ser desactivado.
+La tripulación no ha encontrado nueva información sobre el Enjambre ni cómo pueda ser desactivado.
 
-La mayoría de las bitácoras que han examinado contienen una mezcla desconcertante de trivialidades domésticas junto con manifestaciones culturales casi incomprensibles de naturaleza religiosa. Nada técnico, sin planos, manuales, instrucciones, fórmulas, procedimientos ni nada por el estilo. Al menos hasta ahora.
+La mayoría de las bitácoras que han examinado contienen una mezcla desconcertante de trivialidades domésticas junto con manifestaciones culturales de naturaleza religiosa casi incomprensibles. Nada técnico, ni planos, ni manuales, ni instrucciones o fórmulas, ni procedimientos, ni nada por el estilo. Al menos hasta ahora.
 
-Después de un muy breve debate y basándose en la necesidad urgente de detener al Enjambre, que ya cubría las Américas y se teme que alcance otras partes del globo, el Liderazgo decide continuar la misión del Egeo mientras los suministros y recursos lo permitan.
+Después de un muy breve debate y basándose en la necesidad urgente de detener al Enjambre, que ya cubría todas las Américas y se temía que alcanzase otras partes del globo, el Liderazgo decide continuar la misión del Egeo mientras los suministros y recursos lo permitan.
 
 Debe haber más que diarios privados y libros de oraciones en la Nave de los Visitantes.
 
@@ -318,15 +318,15 @@ Debe haber más que diarios privados y libros de oraciones en la Nave de los Vis
 ### DESAPARECIDOS
 _Día 82_
 
-Un nuevo día, con suerte el último a bordo de la maldita nave espacial. Chen y Boris observan a sus camaradas desde el módulo de comando del Egeo. Están preocupados, pero bromean un poco para aliviar la tensión.
+Un nuevo día, ojalá que fuese el último a bordo de la maldita nave espacial. Chen y Boris observan a sus camaradas desde el módulo de comando del Egeo. Están preocupados, pero bromean un poco para aliviar la tensión.
 
-Kyle descubre un archivo de texto etiquetado como «hacia El Muro». Piensa que podría contener coordenadas o procedimientos para dirigir la Nave a algún destino y que quizás valga la pena leerlo. Chen y Sonia se muestran conformes, así que Kyle lo abre y comienza a leer en voz alta las pocas palabras que conformaban una especie de rima.
+Kyle descubre un archivo de texto etiquetado como «hacia El Muro». Piensa que podría contener coordenadas o procedimientos para dirigir la Nave a algún destino y que quizá valga la pena leerlo. Chen y Sonia se muestran conformes, así que Kyle lo abre y comienza a leer en voz alta unas pocas palabras que conforman una especie de rima.
 
 Boris, que había estado observando aprensivamente todo el tiempo, de repente se da cuenta de algo y grita «¡Kyle, para de leer!»
 
 Pero Kyle ya está pronunciando la última palabra y no puede procesar la orden de Boris lo suficientemente rápido.
 
-La sala de control que los rodea desaparece repentinamente, algo que los desconcierta. La habitación ahora presenta paredes, suelo y techo de color blanco lechoso. El sistema de archivos de la base de datos es reemplazado por una interfaz tridimensional de cartografía estelar.
+La sala de control que rodea a Kyle y sus compañeros desaparece repentinamente, algo que los desconcierta. La habitación ahora presenta paredes, suelo y techo de un color blanco lechoso. El sistema de archivos de la base de datos es reemplazado por una interfaz tridimensional de cartografía estelar.
 
 «Chicos, veis esto?» pregunta Kyle a través de las comunicaciones. Nadie responde. El resto del equipo también intenta restablecer una conexión con el Egeo o el grupo de Sonia, sin éxito. Tal vez sea solo algún tipo de fallo técnico.
 
@@ -334,11 +334,11 @@ La sala de control que los rodea desaparece repentinamente, algo que los desconc
 
 «Um, no entiendo» responde Kyle.
 
-«Siento tener que decirte esto, pero creo que la Nave ha trazado un camino hacia la galaxia HD1... a 30.000 millones de años luz de distancia» Hannah explica con hesitación.
+«Siento tener que decirte esto, pero creo que la Nave ha trazado un camino hacia la galaxia HD1... a 30.000 millones de años luz de distancia» Hannah explica alarmada.
 
-Kyle no está demasiado alarmado porque siente que no se han movido, pero luego recuerda que no notarían ningún movimiento ya que la Nave es capaz de controlar la gravedad y, probablemente, hiciera lo mismo con otras fuerzas cinéticas como la inercia.
+Inicialmente Kyle no está demasiado preocupado porque siente que no se han movido, pero luego recuerda que no notarían ningún movimiento ya que la Nave es capaz de controlar la gravedad y, probablemente, hiciera lo mismo con otras fuerzas cinéticas como la inercia.
 
-Después de un momento, ambos se dan cuenta de que han comenzado a viajar a este «Muro», que las superficies blancas de la habitación de alguna manera podrían representar su movimiento, y que el pequeño triángulo trazado a lo largo del vector de interfaz naranja parece estar moviéndose más allá de la nube de Oort.
+Después de un momento, ambos se dan cuenta de que han comenzado a viajar a este «Muro», que las superficies blancas de la habitación de alguna manera podrían representar su movimiento a través de las estrellas, y que el pequeño triángulo trazado a lo largo del vector de interfaz naranja parece estar moviéndose más allá de la nube de Oort.
 
 Kyle y Hannah se quedan allí parados durante un minuto, entre sus desconcertados colegas, asimilándolo todo y respirando cada vez más rápido debido a la inmensidad de una amarga intuición: en solo diez minutos han viajado más de dos años luz. También parecen estar acelerando a un ritmo constante. En los próximos minutos alcanzarán Alpha Centauri, el sistema estelar más cercano a la Tierra a cuatro años luz de distancia.
 
@@ -354,7 +354,7 @@ Hannah se derrumba y Valentina va a consolarla. Kyle trabaja frenéticamente en 
 
 Trata de mantenerse tranquilo y racional. El viaje comenzó exactamente cuando terminó de leer ese archivo un instante después de que Boris le alertara que se detuviera. Por lo tanto Kyle cree que existe causalidad entre su lectura y la activación de la Nave. Por ello lo primero que intenta es leer la «inofensiva» pequeña rima de nuevo. No parece cambiar nada.
 
-Hannah, aún desolada, explica a Ackerman, Raúl y Valentina todo lo sucedido y el predicamento en el que están
+Hannah, aún desolada, explica a Ackerman, Raúl y Valentina todo lo sucedido y el predicamento en el que están.
 
 «¿Cómo que estamos viajando más rápido que la luz? ¿Cómo demonios ha pasado esto?» pregunta Ackermann. Y Hannah se embrolla en la lección más dolorosa que jamás tuvo que dar sobre la relatividad y el espacio-tiempo. Les lleva un momento asimilarlo todo pero, una vez lo hacen, los expletivos empiezan a fluir.
 
@@ -402,7 +402,7 @@ Suena el timbre y Tess se pregunta quién podría ser tan temprano. Abre la puer
 
 _Día 86_
 
-A bordo de la Nave Visitante, los suministros del equipo están casi agotados. Esto es desde luego preocupante pero saben que en algunos de los videos se podía observar a los Visitantes comiendo y bebiendo. Materializaban de alguna manera la comida como del aire. La hipótesis predominante es que podían fabricar cosas donde quiera que estuviesen utilizando átomos y moléculas de un repositorio ubicado en algún lugar.
+A bordo de la Nave Visitante, los suministros del equipo están casi agotados. Esto es desde luego preocupante pero saben que en algunos de los videos se podía observar a los Visitantes comiendo y bebiendo. Materializaban de alguna manera la comida como del aire. La hipótesis predominante es que podían fabricar cosas donde quiera que estuviesen utilizando átomos y moléculas de un repositorio ubicado en algún lugar de la Nave.
 
 También están completamente convencidos de que ciertas palabras efectúan cambios físicos en la Nave de forma directa, por lo que todos trabajan día y noche para descubrir patrones de lenguage y acceder a alguna fuente de alimentos y agua. También intentan la «telepatía» y gestos en las paredes del comedor, como hicieron durante la misión del Teseo, sin éxito esta vez.
 
@@ -414,13 +414,13 @@ Aún no saben cómo navegar la Nave y sus dificultades se ven agravadas por el h
 
 _Día 88_
 
-Los relojes del equipo todavía marcan el tiempo según su mecanismo interno... un tiempo que para todos los efectos es insignificante, pero que al menos les ofrece un marco familiar para juzgar cuánto tiempo hace desde que la Nave comenzó su aterrador viaje.
+Los relojes del equipo todavía marcan el tiempo según su mecanismo interno... un tiempo que para todos los efectos es insignificante, pero que al menos les ofrece un marco familiar para juzgar el intervalo desde que la Nave comenzó su aterrador viaje.
 
 Ha pasado una semana completa, y tienen hambre. Peor aún: también sed. Habían consumido las pocas provisiones de emergencia que trajeron del Egeo. Raúl y Valentina sugieren que tal vez deberían buscar instrucciones en otros lugares de la Nave... y con suerte poder encontrar también a Birgisson, en el estado que sea. ¿Por qué tener este enfoque exclusivo en la sala de control?
 
-Kyle replica con arrogancia que precisamente porque existe una sala de control, lógicamente, todas las instrucciones necesarias deben estar allí, o algo en ella debería indicarles la dónde encontrar respuestas a sus preguntas.
+Kyle replica con arrogancia que precisamente porque existe una sala de control, lógicamente, todas las instrucciones necesarias deben estar allí, o algo en ella debería indicarles dónde encontrar respuestas a sus preguntas.
 
-Raúl responde que «lógicamente» y para empezar Kyle no debería haber leído ese maldito párrafo en voz alta y sin embargo lo hizo. Así que no, muchas gracias, él le hará caso a su propia intuición.
+Raúl responde que «lógicamente» y para empezar Kyle no debería haber leído ese maldito párrafo en voz alta y sin embargo lo hizo. Así que no, muchas gracias, él solo hará caso a su propia intuición.
 
 Tanto Raúl como Valentina se van a buscar más pistas.
 
@@ -434,7 +434,7 @@ Todos duermen en sus habitaciones.
 
 Kyle está solo en su habitación, despierto y dándole a la cabeza cuando escucha la voz de Hannah llamándolo... «Kyleeeeee». Su corazón brinca de anticipación y estaba a punto de saltar de la cama cuando la ve entrar sugerentemente, vistiendo solo bragas y una camiseta sin mangas... y sin decir mucho.
 
-A Kyle se lo ponen los ojos como platos. Se pregunta cómo Hannah ha podido olvidar tan rápido a Peter, su esposo, cuando había estado inconsolable solo días antes.
+A Kyle se le ponen los ojos como platos. Se pregunta cómo Hannah ha podido olvidar tan rápido a Peter, su esposo, cuando había estado inconsolable solo días antes.
 
 Ciertamente habían tenido problemas en su matrimonio y esta era la tercera vez que Hannah y Kyle se encontraban en una situación más o menos íntima. En ambas ocasiones habían sabido controlar sus impulsos.
 
@@ -444,7 +444,7 @@ Hannah acaricia el rostro de Kyle y se apoya suavemente contra su cuerpo. Comien
 
 De todos modos, ¿qué más da? Las personas queridas de cada uno llevaban muertas décadas, si no siglos. Este debe ser un nuevo comienzo para Hannah y él. Ella que siempre fue dulce, amable, inteligente y decidida a la vez.
 
-Es por eso que Kyle se sorprende cuando Hannah comienza a portarse bruscamente, pellizcándolo, abofeteándole la cara y mordiéndole el labio fuertemente mientras gruñía guturalmente.
+Es por eso que Kyle se sorprende cuando Hannah comienza a portarse bruscamente, pellizcándolo, abofeteándole la cara y mordiéndole el labio fuertemente mientras gruñía.
 
 Kyle al fin la aparta y se levanta sudando y jadeando.... pero Hannah no está por ningún lado.
 
@@ -468,9 +468,9 @@ Dedican su tiempo a expediciones en pos de Birgisson —sin mucha esperanza— o
 
 Todavía no hay señal de motor de ningún tipo.
 
-Se ponen en marcha una vez más y en un momento dado pasan por la cripta donde toda la tripulación Visitante había sido enterrada —todos excepto el cadáver en la sala de control, claro— él había sido el último en morir sin nadie para enterrarlo.
+Se ponen en marcha una vez más y en un momento dado pasan por la cripta donde toda la tripulación Visitante había sido enterrada —todos excepto el cadáver en la sala de control, claro— él había sido el último en morir.
 
-Caminan durante horas y ya están fatigados —particularmente Kyle, Valentina y Hannah—. Ackerman les dice que descansen en cualquier cuarto mientras él permanece afuera para hacer guardia.
+Caminan durante horas y ya están fatigados —particularmente Kyle, Valentina y Hannah—. Ackerman les dice que descansen en cualquier cuarto mientras él permanece fuera para hacer guardia.
 
 Raúl ofrece unirse a él pero el Comandante le sugiere que vaya a comer algo. Él no está cansado ni hambriento y de todos modos no va a acontecer nada. Ackerman toma posición junto al marco de una puerta y de mala gana mantiene cierta postura de vigilancia.
 
@@ -500,7 +500,7 @@ Las manos de Raúl están por todas partes y Ackermann grita de rabia, lanzándo
 
 El hechizo de alguna manera se ha roto.
 
-Kyle, Hannah y Valentina oyeron el alboroto y corrieron hacia ellos, a tiempo para ver a Ackerman cargar contra Raúl, quien jadeaba y preguntaba qué demonios le había pasado.
+Kyle, Hannah y Valentina oyen el alboroto y correnn hacia ellos, a tiempo para ver a Ackerman cargar contra Raúl, quien jadeaba y preguntaba qué demonios le había pasado.
 
 El Comandante no sabe explicarse del todo, balbucea una disculpa y ordena a todos que regresen a sus habitaciones.
 
@@ -528,13 +528,7 @@ Mientras buscan por la Nave, llegan a la sala de control y confirman que su nave
 
 _Día 118_
 
-Valentina Dyakova, al igual que su querido y desaparecido amigo Raúl, es una persona profundamente religiosa. En su caso, una devota cristiana ortodoxa.
-
-Sin embargo, hace algo extremadamente inesperado después de concluir una amarga —y muy inútil— pelea con Ackerman acercade cuestiones geopolíticas: se levanta y sale de la habitación.
-
-Más tarde, el equipo nota que no la han visto durante todo el día y comienzan a preocuparse. Después de muchas horas recorriendo los pasillos y estancias de la Nave así como varios encuentros con los «benignos» robots mariposa, regresan a sus habitaciones con las manos vacías.
-
-Mientras duerme, Kyle se despierta al oir unos gemidos lejanos pero constantes. Sale de su habitación en pos de los ruidos y, finalmente, llega a una habitación en cuyo suelo hay dos bolsas para cadáveres una al lado de la otra.
+Mientras duerme, Kyle se despierta al oir unos gemidos lejanos pero constantes. Sale de su habitación en pos de los ruidos y, finalmente, llega a una habitación en cuyo suelo hay dos bolsas para cadáveres, una al lado de la otra.
 
 Al acercarse a una de ellas se da cuenta con horror de que los gemidos vienen de allí y que algo dentro de la bolsa se está moviendo. Kyle retrocede con pavor pero logra recomponerse y se arrodilla para abrir la cremallera de la bolsa, momento en el cual se encuentra con que Valentina está acurrucada con el cadáver descompuesto de Raúl. En ese momento la médico se gira para observarlo con una mirada vacía y una odiosa sonrisa manchada de sangre.
 
@@ -547,7 +541,13 @@ Kyle se estremece y despierta en su cama empapado en sudor una vez más. Mirando
 ### INVOCACIONES
 _Día 121_
 
-Horrorizados todos se van dando cuenta de que cuanto más intentan alimentarse mediante las invocaciones que encontraron en la base de datos, más locos se están volviendo. Por ejemplo, Hannah se había estado hurgando la piel con una navaja y anda cubierta de llagas y cortes profundos. Ackerman está constantemente enojado, a veces explotando en fuertes arrebatos de ira que duran horas. Y no han encontrado ni a Birgisson ni a Raúl.
+Valentina Dyakova, al igual que su querido y desaparecido amigo Raúl, es una persona profundamente religiosa. En su caso, una devota cristiana ortodoxa.
+
+Sin embargo, hace algo extremadamente inesperado después de concluir una amarga —y muy inútil— pelea con Ackerman acerca de cuestiones geopolíticas: se levanta y sale de la habitación.
+
+Más tarde, el equipo nota que no la han visto durante todo el día y comienzan a preocuparse. Después de muchas horas recorriendo los pasillos y estancias de la Nave así como varios encuentros con los «benignos» robots mariposa, regresan a sus habitaciones con las manos vacías.
+
+Horrorizados todos se iban dando cuenta de que cuanto más intentan alimentarse mediante las invocaciones que encontraron en la base de datos, más locos se están volviendo. Por ejemplo, Hannah se había estado hurgando la piel con una navaja y anda cubierta de llagas y cortes profundos. Ackerman está constantemente enojado, a veces explotando en fuertes arrebatos de ira que duran horas. Y no han encontrado ni a Birgisson ni a Raúl.
 
 Todos acuerdan reducir la recitación de hechizos al mínimo absoluto y renovar su búsqueda de formas para regresar a casa.
 
