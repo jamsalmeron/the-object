@@ -528,12 +528,6 @@ As they search the Ship, they come across the control room and confirm that thei
 
 _Day 118_
 
-Valentina Dyakova, much like his missing friend Raúl, is a deeply religious person. A devout Christian Orthodox in her case.
-
-Regardless, she does something extremely unexpected after concluding a bitter — and very pointless — geopolitical fight with Ackerman: she gets up and leaves the room.
-
-Later on, the team notices they hadn’t seen her the whole day and start to worry. After many hours traversing the Ship’s corridors and several encounters with the “benign” butterfly bots, they return to their quarters empty-handed.
-
 As he sleeps, Kyle is woken up by distant but constant moans. He leaves his room, following the noises and, eventually, arrives at a room with two body bags next to each other laying on the floor.
 
 Walking up to one of the bags, he realizes in horror that it is the source of the moaning noises and that something inside it is moving. Recoiling, Kyle composes himself and kneels to zip open the bag, at which point he can see that Valentina is cuddling with Raúl’s decomposed cadaver. She then turns to look at him with a vacant stare and an odious, blood-stained grin.
@@ -551,9 +545,9 @@ By now, they all realize that the more they try to feed themselves with incantat
 
 They all agree to reduce the recitation of spells to the absolute minimum and to renew their search for ways to get back home.
 
-They wondered how the Visitors were able to withstand their daily use of spells and still function. Valentina offers a theory: it had to be through societal-wide human sacrifice offerings...something to do with the submerged rooms and the suffering captives. They were thoroughly corrupt as a people. She’s sure of it.
+They wondered how the Visitors were able to withstand their daily use of spells and still function. Valentina Dyakova, much like his missing friend Raúl, is a deeply religious person. A devout Christian Orthodox in her case. She offers a theory: it had to be through societal-wide human sacrifice offerings...something to do with the submerged rooms and the suffering captives. They were thoroughly corrupt as a people. She’s sure of it.
 
-And yet, they need nourishment to survive. Valentina herself, as soon as she gets to her room for the day, starts a long sequence of tries, using different word combinations that have worked at times in the past but almost never more than once.
+And yet, they need nourishment to survive. Valentina herself, as soon as she gets back to her room starts a long sequence of tries, using different word combinations that have worked at times in the past but almost never more than once.
 
 After at least an hour and a half of this nonsense, she materializes a sort of porridge that tastes OK, along with some green liquid reminiscent of rice water. She gulps both down and nods off into a dreamy state, half awake and half asleep.
 
@@ -570,6 +564,8 @@ She keeps her exploration to the areas where they had placed tracers, wouldn’t
 But the song beckons from a new part of the Ship, and it’s so beautiful!
 
 “Sounds like a signal from you / Bring me to meet your sound / And I will bring you to my heart.”
+
+Later on, the team notices they hadn’t seen her for several hours and start to worry. After many hours traversing the Ship’s corridors and several encounters with the “benign” butterfly bots, they return to their quarters empty-handed.
 
 
 //
